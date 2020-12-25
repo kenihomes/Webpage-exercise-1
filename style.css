@@ -141,7 +141,7 @@
 
 .formdiv{
     position: relative;
-    background-image: url(/img/bgform.jpg);
+    background-image: url(./img/bgform.jpg);
     height: 700px ;
     background-size: 100% 100%;
     padding-top: 4%;
